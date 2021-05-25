@@ -1,9 +1,9 @@
 ## Contributing
 
-Want to contribute to RAWGraphs's development? You are more than welcome! Start by forking the repository (the "Fork" button at the top-right corner of this page) and follow the instructions above to clone it and install dependencies.
+Want to contribute to RAWGraphs's development? You are more than welcome! Start by cloning the repository (the "Code" button at the top-right corner of this page) and follow the instructions in [README file](https://github.com/rawgraphs/rawgraphs-app#installation) to install dependencies and set it up.
 Then you can use Github's issues and pull requests to discuss and share your work.
 
-You will need to sign a [Contributor License Agreement (CLA)](https://www.clahub.com/agreements/densitydesign/raw) before making a submission. We adopted CLA to be sure that the project will remain open source.
+You will need to sign a [Contributor License Agreement (CLA)](https://www.clahub.com/agreements/densitydesign/raw) before making a submission. It will be automatically prompted in the moment you will make a "pull request" to the repository. We adopted CLA to be sure that the project will remain open source.
 For more information, write us: <hello@rawgraphs.io>.
 
 ## The "obvius fix" RULE
@@ -30,17 +30,18 @@ Obvious fix.
 
 An obvious fix is a pull request that does not contain creative work. We rely on your judgment to determine what is “obvious”; if you’re not sure, just ask by sending an email to: hello@rawgraphs.io
 As a rule of thumb, changes are obvious fixes if they do not introduce any new functionality or creative thinking. As long as the change does not affect functionality, some likely examples include the following:
-* Spelling/grammar fixes;
-* Correcting typos;
-* Cleaning up comments in the code;
-* Changes to white space or formatting;
-* Bug fixes that change default return values or error codes stored in constants, literals, or simple variable types;
-* Adding logging messages or debugging output;
-* Changes to ‘metadata’ files like Gemfile, rebar.config, Makefile, app.config, sys.config, .gitignore, example configuration files, build scripts, etc.;
-* Changes that reflect outside facts, like renaming a build directory or changing a constant;
-* Changes in build or installation scripts;
-* Re-ordering of objects or subroutines within a source file (such as alphabetizing routines);
-* Moving source files from one directory or package to another, with no changes in code;
-* Breaking a source file into multiple source files, or consolidating multiple source files into one source file, with no change in code behavior;
-* Changes to words or phrases isolated from their context;
-* Changes to typeface.
+
+- Spelling/grammar fixes;
+- Correcting typos;
+- Cleaning up comments in the code;
+- Changes to white space or formatting;
+- Bug fixes that change default return values or error codes stored in constants, literals, or simple variable types;
+- Adding logging messages or debugging output;
+- Changes to ‘metadata’ files like Gemfile, rebar.config, Makefile, app.config, sys.config, .gitignore, example configuration files, build scripts, etc.;
+- Changes that reflect outside facts, like renaming a build directory or changing a constant;
+- Changes in build or installation scripts;
+- Re-ordering of objects or subroutines within a source file (such as alphabetizing routines);
+- Moving source files from one directory or package to another, with no changes in code;
+- Breaking a source file into multiple source files, or consolidating multiple source files into one source file, with no change in code behavior;
+- Changes to words or phrases isolated from their context;
+- Changes to typeface.
